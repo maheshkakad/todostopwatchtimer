@@ -1,144 +1,144 @@
 {
   "todos": [
     {
-      "id": 1,
-      "value": "Todo 1",
-      "isCompleted": true
-    },
-    {
-      "id": 2,
-      "value": "Todo 2",
-      "isCompleted": false
-    },
-    {
-      "id": 3,
-      "value": "Todo 3",
-      "isCompleted": false
-    },
-    {
-      "value": "abcd",
+      "value": "22",
       "isCompleted": false,
-      "id": 4
+      "username": "mahehs",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "",
+      "gender": "male",
+      "id": 35
     },
     {
-      "value": "qrqfwef",
+      "value": "22",
       "isCompleted": false,
-      "id": 5
+      "username": "mahehs",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "Pune",
+      "gender": "male",
+      "id": 36
     },
     {
-      "value": "fsfsfwg",
+      "value": "22",
       "isCompleted": false,
-      "id": 6
+      "username": "maheshkakad",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "Pune",
+      "gender": "male",
+      "id": 37
     },
     {
-      "value": "fweefw",
+      "value": "22",
       "isCompleted": false,
-      "id": 7
+      "username": "maheshkakad",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "Pune",
+      "gender": "male",
+      "id": 38
     },
     {
-      "value": "wefwfwf",
+      "value": "22",
       "isCompleted": false,
-      "id": 8
+      "username": "maheshkakad",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "Pune",
+      "gender": "male",
+      "id": 39
     },
     {
-      "value": "weffw",
+      "value": "5555",
       "isCompleted": false,
-      "id": 9
+      "username": "Mahesh Kakad",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "Pune",
+      "gender": "male",
+      "id": 40
     },
     {
-      "value": "mahesh",
+      "value": 0,
       "isCompleted": false,
-      "id": 10
+      "username": "",
+      "email": "",
+      "city": "",
+      "id": 41
     },
     {
-      "value": "mahesh",
+      "value": "23",
       "isCompleted": false,
-      "id": 11
+      "username": "shantanu",
+      "email": "shantanu@gamil.com",
+      "city": "Mumbai",
+      "gender": "male",
+      "id": 42
     },
     {
-      "value": "sqs",
+      "value": "022",
       "isCompleted": false,
-      "id": 12
+      "username": "Gaurav Kakad",
+      "email": "gauravkakad1996@gmail.com",
+      "city": "Mumbai",
+      "gender": "male",
+      "id": 43
     },
     {
-      "value": "sqs",
+      "value": "022",
       "isCompleted": false,
-      "id": 13
+      "username": "Gaurav Kakad",
+      "email": "gauravkakad1996@gmail.com",
+      "city": "Mumbai",
+      "id": 44
     },
     {
-      "value": "jih",
+      "value": "022",
       "isCompleted": false,
-      "id": 14
+      "username": "Gaurav Kakad",
+      "email": "gauravkakad1996@gmail.com",
+      "city": "Mumbai",
+      "salary": "200000",
+      "id": 45
     },
     {
-      "value": "mmm",
+      "value": "23",
       "isCompleted": false,
-      "id": 15
+      "username": "Mahesh Kakad",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "Pune",
+      "gender": "male",
+      "salary": "500000",
+      "id": 46
     },
     {
-      "value": "dqdf",
+      "value": "45",
       "isCompleted": false,
-      "id": 16
+      "username": "lallu",
+      "email": "shantanu@gamil.com",
+      "city": "Mumbai",
+      "gender": "male",
+      "salary": "120000",
+      "id": 47
     },
     {
-      "value": "pavan",
+      "value": "90",
       "isCompleted": false,
-      "id": 17
+      "username": "kalu",
+      "email": "mahehs@gmail",
+      "city": "",
+      "gender": "male",
+      "salary": "022",
+      "id": 48
     },
     {
-      "value": "sumit",
+      "value": "32",
       "isCompleted": false,
-      "id": 18
+      "username": "gauri",
+      "email": "mahesh_fp01_177@masai.school",
+      "city": "",
+      "salary": "0444134133",
+      "id": 49
     },
     {
-      "value": "teja",
       "isCompleted": false,
-      "id": 19
-    },
-    {
-      "value": "karan",
-      "isCompleted": false,
-      "id": 20
-    },
-    {
-      "value": "arjun",
-      "isCompleted": false,
-      "id": 21
-    },
-    {
-      "value": "bhagya",
-      "isCompleted": false,
-      "id": 22
-    },
-    {
-      "value": "mahwsh",
-      "isCompleted": false,
-      "id": 23
-    },
-    {
-      "value": "dqfeewf",
-      "isCompleted": false,
-      "id": 24
-    },
-    {
-      "value": "",
-      "isCompleted": false,
-      "id": 25
-    },
-    {
-      "value": "dvsvs",
-      "isCompleted": false,
-      "id": 26
-    },
-    {
-      "value": "fwef",
-      "isCompleted": false,
-      "id": 27
-    },
-    {
-      "value": "how to delete",
-      "isCompleted": false,
-      "id": 28
+      "id": 50
     }
   ]
 }
